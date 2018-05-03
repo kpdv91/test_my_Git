@@ -18,6 +18,15 @@
 			<li>여섯째 리스트</li>
 			<li>일곱번째 리스트</li>
 		</ul>
+		<ol>
+			<li>리스트</li>
+			<li>리스트</li>
+			<li>리스트</li>
+			<li>리스트</li>
+			<li>리스트</li>
+			<li>리스트</li>
+			<li>리스트</li>
+		</ol>
 		<p>리스트 마감</p>
 	</body>
 	<script></script>
