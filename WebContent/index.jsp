@@ -13,11 +13,11 @@
 		<table>
 			<tr>
 				<td>ID</td>
-				<td></td>
+				<td><input type="text" name="userId"/></td>
 			</tr>
 			<tr>
 				<td>pw</td>
-				<td></td>
+				<td><input type="password" name="userPw"/></td>
 			</tr>
 			<tr>
 				<td>ID</td>
